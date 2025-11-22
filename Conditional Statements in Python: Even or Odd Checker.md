@@ -1,4 +1,4 @@
-## Experiment No: 4 – Conditional Statements- Checking the number is divisible by 9 or not
+## Conditional Statements- Checking the number is divisible by 9 or not
 ## AIM  
 To Write a Python program to read a number and check whether the number is divisible by 9 or not using  if else
 ## ALGORITHM  
