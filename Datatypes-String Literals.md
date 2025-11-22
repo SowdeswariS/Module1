@@ -1,15 +1,27 @@
-# Datatypes-Read and Print a String in Python
+# Python Basics- Printing integer literal
 
-## 🎯 Aim
-To write a Python program to read a string from the user and then print it.
+## AIM  
+To Write a python program to print the following integer literals.
 
-## 🧠 Algorithm
-1. Assign a variable named `men_stepped_on_the_moon`.
-2. Use `input()` to read a string from the user and store it in the variable.
-3. Print the value stored in the variable.
+## ALGORITHM  
+1.Define the integer variable and assign it the value 123_456_789 using underscores to improve readability.
 
-## 🧾 Program
+2.Use the print() function to output the value of the integer variable.
 
-## Output
+3.The underscores in the number will be ignored by Python, but the value remains 123456789.
 
-## Result
+4.The program will print the integer 123456789 as output when executed.
+
+## PROGRAM
+```python
+# Reg.No-212223050051
+# Name-SOWDESWARI S
+num = 123_456_789
+print(num)
+```
+## OUTPUT
+![image](https://github.com/user-attachments/assets/6402cf7e-57e7-4d77-b5ce-df01d1b6e3e4)
+
+## RESULT
+
+Thus the above program is executed successfully.
