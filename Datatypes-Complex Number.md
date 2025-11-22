@@ -1,19 +1,39 @@
-# 🧮 Datatypes-Complex Number Creation in Python
+# Varibles and Expressions, Operators - perform bitwise and or on the given integer values.
 
-## 🎯 Aim
-To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
+## AIM
+To Write a python program to perform bitwise and or on the given integer values.
 
-## 🧠 Algorithm
-1. Read an integer input from the user and assign it to the variable `a` (real part).
-2. Read another integer input from the user and assign it to the variable `b` (imaginary part).
-3. Create a complex number `x` using the `complex(a, b)` function.
-4. Print the complex number `x`.
-5. Print the real part of `x` using `x.real`.
-6. Print the imaginary part of `x` using `x.imag`.
+## ALGORITHM
+1. Prompt the user to enter the first integer value.
 
-## 💻 Program
-Add Code Here
+2.Read the first integer value from the user and store it in a variable.
 
-## Output
+3.Prompt the user to enter the second integer value.
 
-## Result
+4.Read the second integer value from the user and store it in a variable.
+
+5.Perform the bitwise AND operation on the two integers and store the result.
+
+6.Perform the bitwise OR operation on the two integers and store the result.
+
+7.Print the result of the bitwise AND operation.
+
+8.Print the result of the bitwise OR operation.
+
+## PROGRAM
+```python
+# Reg.No-212223050051
+#Name-SOWDESWARI S
+a=int(input())
+b=int(input())
+print(a&b)
+print(b|a)
+
+```
+
+## OUTPUT
+![image](https://github.com/user-attachments/assets/3b8006a8-d408-4362-a284-c3792b10eeb7)
+
+
+## RESULT
+Thus the python program is executed successfully.
