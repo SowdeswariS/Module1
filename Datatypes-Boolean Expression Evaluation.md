@@ -1,27 +1,34 @@
-# Experiment No: 2- Data Types – Printing Integer Variable
+# Datatypes-Boolean Expression Evaluation in Python
 
-## AIM  
-To Write a python program to read and  then print the integer variable.
+## 🎯 Aim
+To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
 
-## ALGORITHM  
-1.Prompt the user to enter an integer.
+## 🧠 Algorithm
+1. Set variable `a` to the result of the expression `0 == True`.
+2. Set variable `b` to the result of the expression `False == False`.
+3. Set variable `c` to the result of the expression `True + True`.
+4. Set variable `d` to the result of the expression `False + 9`.
+5. Print the value of `a` with the label "a is".
+6. Print the value of `b` with the label "b is".
+7. Print the value of `c` with the label "c:".
+8. Print the value of `d` with the label "d:".
 
-2.Read the input from the user and convert it to an integer using int().
-
-3.Store the integer in a variable.
-
-4.Print the stored integer variable.
-
-## PROGRAM
-```python
-# Reg.No-212223050051
-# Name-SOWDESWARI S
-a=int(input())
-print(a)
-
+## 💻 Program
 ```
-## OUTPUT
-![image](https://github.com/user-attachments/assets/b2b32c2f-7fd8-4479-85bb-9bd953f00afb)
+a = (1 == True)
+b = (1 == False)
+c = True + 3
+d = False + 7
+print(f"a is {a}")
+print(f"b is {b}")
+print(f"c: {c}")
+print(f"d: {d}")
+```
+## Output
 
-## RESULT
-Thus the above program is excuted successfully.
+![image](https://github.com/user-attachments/assets/7d1f6027-9658-4ef4-8eb7-24c90d00ad30)
+
+## Result
+
+Thus the program has been successfully executed
+
