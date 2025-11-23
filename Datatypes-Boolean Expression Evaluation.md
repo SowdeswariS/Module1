@@ -26,7 +26,7 @@ print("c:", c)
 print("d:", d)
 ~~~
 ## Output
-<img width="350" height="381" alt="image" src="https://github.com/user-attachments/assets/10ed783f-5522-4622-8915-ba86f29f4034" />
+<img width="369" height="234" alt="image" src="https://github.com/user-attachments/assets/7d4442cf-3be4-4667-b8ff-55883cdae5aa" />
 
 ## Result
 Thus the python program to print the results of boolean and arithmetic expressions involving `True` and `False` is executed successfully.
